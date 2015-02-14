@@ -1,0 +1,10 @@
+{
+  "name": "hu-map-leaflet-project",
+  "version": "1.0.0",
+  "description": "Map to show HU buildings",
+  "dependencies": {
+    "express": "~4.8.2"
+  },
+  "devDependencies": {
+  }
+}
